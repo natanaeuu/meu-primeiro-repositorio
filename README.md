@@ -1,3 +1,5 @@
 # meu-primeiro-repositorio
 testar conhecimentos
-# Meu primeiro commit!!!
+# meu primeiro commit!!!
+# adicionando email
+natanaeljr08@gmail.com
